@@ -1,8 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 
-import { getProducts } from '@/lib/db';
-
-import { connect } from 'react-redux';
 
 export default async function Page() {
 

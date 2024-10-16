@@ -1,7 +1,7 @@
 export type Item = {
-  id?: String;
-  title?: String;
-  reviews? : String[];
-  description?: String;
-  price: Number;
+  id?: string;
+  title?: string;
+  reviews?: string[];
+  description?: string;
+  price: number;
 }
